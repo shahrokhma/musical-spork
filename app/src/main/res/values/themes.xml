@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.LiveTranscriber" parent="Theme.AppCompat.Light.DarkActionBar" />
+</resources>
